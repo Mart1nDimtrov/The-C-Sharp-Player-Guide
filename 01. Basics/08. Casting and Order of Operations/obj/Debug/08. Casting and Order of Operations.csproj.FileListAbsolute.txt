@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\01. Basics\08. Casting and Order of Operations\bin\Debug\_08.Casting_and_Order_of_Operations.exe.config
+C:\Users\martin\Desktop\01. Basics\08. Casting and Order of Operations\bin\Debug\_08.Casting_and_Order_of_Operations.exe
+C:\Users\martin\Desktop\01. Basics\08. Casting and Order of Operations\bin\Debug\_08.Casting_and_Order_of_Operations.pdb
+C:\Users\martin\Desktop\01. Basics\08. Casting and Order of Operations\obj\Debug\08. Casting and Order of Operations.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\01. Basics\08. Casting and Order of Operations\obj\Debug\_08.Casting_and_Order_of_Operations.exe
+C:\Users\martin\Desktop\01. Basics\08. Casting and Order of Operations\obj\Debug\_08.Casting_and_Order_of_Operations.pdb

@@ -1,0 +1,5 @@
+C:\Users\martin\Desktop\01. Basics\12. Looping\bin\Debug\_12.Looping.exe.config
+C:\Users\martin\Desktop\01. Basics\12. Looping\bin\Debug\_12.Looping.exe
+C:\Users\martin\Desktop\01. Basics\12. Looping\bin\Debug\_12.Looping.pdb
+C:\Users\martin\Desktop\01. Basics\12. Looping\obj\Debug\_12.Looping.exe
+C:\Users\martin\Desktop\01. Basics\12. Looping\obj\Debug\_12.Looping.pdb

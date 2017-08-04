@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\01. Basics\18. Recursion\bin\Debug\_18.Recursion.exe.config
+C:\Users\martin\Desktop\01. Basics\18. Recursion\bin\Debug\_18.Recursion.exe
+C:\Users\martin\Desktop\01. Basics\18. Recursion\bin\Debug\_18.Recursion.pdb
+C:\Users\martin\Desktop\01. Basics\18. Recursion\obj\Debug\18. Recursion.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\01. Basics\18. Recursion\obj\Debug\_18.Recursion.exe
+C:\Users\martin\Desktop\01. Basics\18. Recursion\obj\Debug\_18.Recursion.pdb

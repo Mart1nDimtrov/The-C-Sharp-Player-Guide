@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\01. Basics\01. Basics\bin\Debug\_01.Basics.exe.config
+C:\Users\martin\Desktop\01. Basics\01. Basics\bin\Debug\_01.Basics.exe
+C:\Users\martin\Desktop\01. Basics\01. Basics\bin\Debug\_01.Basics.pdb
+C:\Users\martin\Desktop\01. Basics\01. Basics\obj\Debug\01. Hello World.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\01. Basics\01. Basics\obj\Debug\_01.Basics.exe
+C:\Users\martin\Desktop\01. Basics\01. Basics\obj\Debug\_01.Basics.pdb

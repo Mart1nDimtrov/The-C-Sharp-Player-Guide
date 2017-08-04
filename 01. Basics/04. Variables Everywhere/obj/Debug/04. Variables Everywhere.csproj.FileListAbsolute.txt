@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\01. Basics\04. Variables Everywhere\bin\Debug\_04.Variables_Everywhere.exe.config
+C:\Users\martin\Desktop\01. Basics\04. Variables Everywhere\bin\Debug\_04.Variables_Everywhere.exe
+C:\Users\martin\Desktop\01. Basics\04. Variables Everywhere\bin\Debug\_04.Variables_Everywhere.pdb
+C:\Users\martin\Desktop\01. Basics\04. Variables Everywhere\obj\Debug\04. Variables Everywhere.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\01. Basics\04. Variables Everywhere\obj\Debug\_04.Variables_Everywhere.exe
+C:\Users\martin\Desktop\01. Basics\04. Variables Everywhere\obj\Debug\_04.Variables_Everywhere.pdb

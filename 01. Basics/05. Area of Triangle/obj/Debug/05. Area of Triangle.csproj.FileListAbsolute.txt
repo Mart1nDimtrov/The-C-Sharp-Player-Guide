@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\01. Basics\05. Area of Triangle\bin\Debug\_05.Area_of_Triangle.exe.config
+C:\Users\martin\Desktop\01. Basics\05. Area of Triangle\bin\Debug\_05.Area_of_Triangle.exe
+C:\Users\martin\Desktop\01. Basics\05. Area of Triangle\bin\Debug\_05.Area_of_Triangle.pdb
+C:\Users\martin\Desktop\01. Basics\05. Area of Triangle\obj\Debug\05. Area of Triangle.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\01. Basics\05. Area of Triangle\obj\Debug\_05.Area_of_Triangle.exe
+C:\Users\martin\Desktop\01. Basics\05. Area of Triangle\obj\Debug\_05.Area_of_Triangle.pdb

@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\01. Basics\07. Cylinders\bin\Debug\_07.Cylinders.exe.config
+C:\Users\martin\Desktop\01. Basics\07. Cylinders\bin\Debug\_07.Cylinders.exe
+C:\Users\martin\Desktop\01. Basics\07. Cylinders\bin\Debug\_07.Cylinders.pdb
+C:\Users\martin\Desktop\01. Basics\07. Cylinders\obj\Debug\07. Cylinders.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\01. Basics\07. Cylinders\obj\Debug\_07.Cylinders.exe
+C:\Users\martin\Desktop\01. Basics\07. Cylinders\obj\Debug\_07.Cylinders.pdb

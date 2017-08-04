@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\01. Basics\10. Making a Calculator\bin\Debug\_10.Making_a_Calculator.exe.config
+C:\Users\martin\Desktop\01. Basics\10. Making a Calculator\bin\Debug\_10.Making_a_Calculator.exe
+C:\Users\martin\Desktop\01. Basics\10. Making a Calculator\bin\Debug\_10.Making_a_Calculator.pdb
+C:\Users\martin\Desktop\01. Basics\10. Making a Calculator\obj\Debug\10. Making a Calculator.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\01. Basics\10. Making a Calculator\obj\Debug\_10.Making_a_Calculator.exe
+C:\Users\martin\Desktop\01. Basics\10. Making a Calculator\obj\Debug\_10.Making_a_Calculator.pdb

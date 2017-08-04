@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\01. Basics\13. FizzBuzz\bin\Debug\_13.FizzBuzz.exe.config
+C:\Users\martin\Desktop\01. Basics\13. FizzBuzz\bin\Debug\_13.FizzBuzz.exe
+C:\Users\martin\Desktop\01. Basics\13. FizzBuzz\bin\Debug\_13.FizzBuzz.pdb
+C:\Users\martin\Desktop\01. Basics\13. FizzBuzz\obj\Debug\13. FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\01. Basics\13. FizzBuzz\obj\Debug\_13.FizzBuzz.exe
+C:\Users\martin\Desktop\01. Basics\13. FizzBuzz\obj\Debug\_13.FizzBuzz.pdb

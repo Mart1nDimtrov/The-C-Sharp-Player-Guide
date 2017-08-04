@@ -1,0 +1,5 @@
+C:\Users\martin\Desktop\01. Basics\14. Arrays\bin\Debug\_14.Arrays.exe.config
+C:\Users\martin\Desktop\01. Basics\14. Arrays\bin\Debug\_14.Arrays.exe
+C:\Users\martin\Desktop\01. Basics\14. Arrays\bin\Debug\_14.Arrays.pdb
+C:\Users\martin\Desktop\01. Basics\14. Arrays\obj\Debug\_14.Arrays.exe
+C:\Users\martin\Desktop\01. Basics\14. Arrays\obj\Debug\_14.Arrays.pdb

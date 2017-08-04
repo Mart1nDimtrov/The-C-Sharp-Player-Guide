@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\01. Basics\16. Enumerations\bin\Debug\_16.Enumerations.exe.config
+C:\Users\martin\Desktop\01. Basics\16. Enumerations\bin\Debug\_16.Enumerations.exe
+C:\Users\martin\Desktop\01. Basics\16. Enumerations\bin\Debug\_16.Enumerations.pdb
+C:\Users\martin\Desktop\01. Basics\16. Enumerations\obj\Debug\16. Enumerations.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\01. Basics\16. Enumerations\obj\Debug\_16.Enumerations.exe
+C:\Users\martin\Desktop\01. Basics\16. Enumerations\obj\Debug\_16.Enumerations.pdb

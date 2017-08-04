@@ -1,0 +1,5 @@
+C:\Users\martin\Desktop\01. Basics\15. Totaling and Averaging Revisited\bin\Debug\_15.Totaling_and_Averaging_Revisited.exe.config
+C:\Users\martin\Desktop\01. Basics\15. Totaling and Averaging Revisited\bin\Debug\_15.Totaling_and_Averaging_Revisited.exe
+C:\Users\martin\Desktop\01. Basics\15. Totaling and Averaging Revisited\bin\Debug\_15.Totaling_and_Averaging_Revisited.pdb
+C:\Users\martin\Desktop\01. Basics\15. Totaling and Averaging Revisited\obj\Debug\_15.Totaling_and_Averaging_Revisited.exe
+C:\Users\martin\Desktop\01. Basics\15. Totaling and Averaging Revisited\obj\Debug\_15.Totaling_and_Averaging_Revisited.pdb

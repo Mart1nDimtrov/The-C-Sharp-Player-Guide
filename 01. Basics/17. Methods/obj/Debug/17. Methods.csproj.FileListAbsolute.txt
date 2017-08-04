@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\01. Basics\17. Methods\bin\Debug\_17.Methods.exe.config
+C:\Users\martin\Desktop\01. Basics\17. Methods\bin\Debug\_17.Methods.exe
+C:\Users\martin\Desktop\01. Basics\17. Methods\bin\Debug\_17.Methods.pdb
+C:\Users\martin\Desktop\01. Basics\17. Methods\obj\Debug\17. Methods.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\01. Basics\17. Methods\obj\Debug\_17.Methods.exe
+C:\Users\martin\Desktop\01. Basics\17. Methods\obj\Debug\_17.Methods.pdb

@@ -1,0 +1,5 @@
+C:\Users\martin\Desktop\01. Basics\06. Remainders\bin\Debug\_06.Remainders.exe.config
+C:\Users\martin\Desktop\01. Basics\06. Remainders\bin\Debug\_06.Remainders.exe
+C:\Users\martin\Desktop\01. Basics\06. Remainders\bin\Debug\_06.Remainders.pdb
+C:\Users\martin\Desktop\01. Basics\06. Remainders\obj\Debug\_06.Remainders.exe
+C:\Users\martin\Desktop\01. Basics\06. Remainders\obj\Debug\_06.Remainders.pdb

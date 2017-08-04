@@ -1,0 +1,5 @@
+C:\Users\martin\Desktop\01. Basics\02. Evil Computers\bin\Debug\_02.Evil_Computers.exe.config
+C:\Users\martin\Desktop\01. Basics\02. Evil Computers\bin\Debug\_02.Evil_Computers.exe
+C:\Users\martin\Desktop\01. Basics\02. Evil Computers\bin\Debug\_02.Evil_Computers.pdb
+C:\Users\martin\Desktop\01. Basics\02. Evil Computers\obj\Debug\_02.Evil_Computers.exe
+C:\Users\martin\Desktop\01. Basics\02. Evil Computers\obj\Debug\_02.Evil_Computers.pdb
