@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Polymorphism", "06. Pol
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Interfaces", "07. Interfaces\07. Interfaces.csproj", "{A3391191-021C-4A00-A2AD-A69FAE95E282}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Using Generics", "08. Using Generics\08. Using Generics.csproj", "{CC52C777-FAA4-408D-B156-0CD580379ABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Making Generic Types", "09. Making Generic Types\09. Making Generic Types.csproj", "{74D25AD2-6907-427A-A953-E5936405C5E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{A3391191-021C-4A00-A2AD-A69FAE95E282}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3391191-021C-4A00-A2AD-A69FAE95E282}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3391191-021C-4A00-A2AD-A69FAE95E282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC52C777-FAA4-408D-B156-0CD580379ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC52C777-FAA4-408D-B156-0CD580379ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC52C777-FAA4-408D-B156-0CD580379ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC52C777-FAA4-408D-B156-0CD580379ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74D25AD2-6907-427A-A953-E5936405C5E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D25AD2-6907-427A-A953-E5936405C5E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D25AD2-6907-427A-A953-E5936405C5E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D25AD2-6907-427A-A953-E5936405C5E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

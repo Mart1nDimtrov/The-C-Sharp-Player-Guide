@@ -1,1 +1,6 @@
 C:\Users\martin\Desktop\The C# Player's Guide\02. Object-Oriented Programming\07. Interfaces\bin\Debug\_07.Interfaces.exe.config
+C:\Users\martin\Desktop\The C# Player's Guide\02. Object-Oriented Programming\07. Interfaces\bin\Debug\_07.Interfaces.exe
+C:\Users\martin\Desktop\The C# Player's Guide\02. Object-Oriented Programming\07. Interfaces\bin\Debug\_07.Interfaces.pdb
+C:\Users\martin\Desktop\The C# Player's Guide\02. Object-Oriented Programming\07. Interfaces\obj\Debug\07. Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\The C# Player's Guide\02. Object-Oriented Programming\07. Interfaces\obj\Debug\_07.Interfaces.exe
+C:\Users\martin\Desktop\The C# Player's Guide\02. Object-Oriented Programming\07. Interfaces\obj\Debug\_07.Interfaces.pdb

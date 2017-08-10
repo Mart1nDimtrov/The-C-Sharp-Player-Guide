@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A3391191-021C-4A00-A2AD-A69FAE95E282}</ProjectGuid>
+    <ProjectGuid>{CC52C777-FAA4-408D-B156-0CD580379ABC}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_07.Interfaces</RootNamespace>
-    <AssemblyName>_07.Interfaces</AssemblyName>
+    <RootNamespace>_08.Using_Generics</RootNamespace>
+    <AssemblyName>_08.Using_Generics</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="07. Interfaces.cs" />
-    <Compile Include="Classes\TextFileWriter.cs" />
-    <Compile Include="Interfaces\IFileWriter.cs" />
+    <Compile Include="08. Using Generics.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
