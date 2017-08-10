@@ -1,0 +1,1 @@
+C:\Users\martin\Desktop\The C# Player's Guide\02. Object-Oriented Programming\06. Polymorphism\bin\Debug\_06.Polymorphism.exe.config

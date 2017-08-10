@@ -4,3 +4,6 @@ C:\Users\martin\Desktop\02. Object-Oriented Programming\02. Book Class\bin\Debug
 C:\Users\martin\Desktop\02. Object-Oriented Programming\02. Book Class\obj\Debug\02. Book Class.csprojResolveAssemblyReference.cache
 C:\Users\martin\Desktop\02. Object-Oriented Programming\02. Book Class\obj\Debug\_02.Book_Class.exe
 C:\Users\martin\Desktop\02. Object-Oriented Programming\02. Book Class\obj\Debug\_02.Book_Class.pdb
+C:\Users\martin\Desktop\The C# Player's Guide\02. Object-Oriented Programming\02. Book Class\bin\Debug\_02.Book_Class.exe.config
+C:\Users\martin\Desktop\The C# Player's Guide\02. Object-Oriented Programming\02. Book Class\obj\Debug\_02.Book_Class.exe
+C:\Users\martin\Desktop\The C# Player's Guide\02. Object-Oriented Programming\02. Book Class\obj\Debug\_02.Book_Class.pdb

@@ -1,6 +1,0 @@
-C:\Users\martin\Desktop\02. Object-Oriented Programming\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-C:\Users\martin\Desktop\02. Object-Oriented Programming\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-C:\Users\martin\Desktop\02. Object-Oriented Programming\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-C:\Users\martin\Desktop\02. Object-Oriented Programming\ConsoleApplication1\obj\Debug\01. Classes and Objects.csprojResolveAssemblyReference.cache
-C:\Users\martin\Desktop\02. Object-Oriented Programming\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-C:\Users\martin\Desktop\02. Object-Oriented Programming\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

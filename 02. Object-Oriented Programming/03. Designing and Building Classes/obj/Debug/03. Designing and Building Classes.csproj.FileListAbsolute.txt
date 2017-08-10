@@ -4,3 +4,6 @@ C:\Users\martin\Desktop\02. Object-Oriented Programming\03. Designing and Buildi
 C:\Users\martin\Desktop\02. Object-Oriented Programming\03. Designing and Building Classes\obj\Debug\03. Designing and Building Classes.csprojResolveAssemblyReference.cache
 C:\Users\martin\Desktop\02. Object-Oriented Programming\03. Designing and Building Classes\obj\Debug\_03.Designing_and_Building_Classes.exe
 C:\Users\martin\Desktop\02. Object-Oriented Programming\03. Designing and Building Classes\obj\Debug\_03.Designing_and_Building_Classes.pdb
+C:\Users\martin\Desktop\The C# Player's Guide\02. Object-Oriented Programming\03. Designing and Building Classes\bin\Debug\_03.Designing_and_Building_Classes.exe.config
+C:\Users\martin\Desktop\The C# Player's Guide\02. Object-Oriented Programming\03. Designing and Building Classes\obj\Debug\_03.Designing_and_Building_Classes.exe
+C:\Users\martin\Desktop\The C# Player's Guide\02. Object-Oriented Programming\03. Designing and Building Classes\obj\Debug\_03.Designing_and_Building_Classes.pdb

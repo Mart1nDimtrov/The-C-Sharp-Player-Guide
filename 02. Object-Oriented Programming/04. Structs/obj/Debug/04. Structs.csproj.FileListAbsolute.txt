@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\The C# Player's Guide\02. Object-Oriented Programming\04. Structs\bin\Debug\_04.Structs.exe.config
+C:\Users\martin\Desktop\The C# Player's Guide\02. Object-Oriented Programming\04. Structs\bin\Debug\_04.Structs.exe
+C:\Users\martin\Desktop\The C# Player's Guide\02. Object-Oriented Programming\04. Structs\bin\Debug\_04.Structs.pdb
+C:\Users\martin\Desktop\The C# Player's Guide\02. Object-Oriented Programming\04. Structs\obj\Debug\04. Structs.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\The C# Player's Guide\02. Object-Oriented Programming\04. Structs\obj\Debug\_04.Structs.exe
+C:\Users\martin\Desktop\The C# Player's Guide\02. Object-Oriented Programming\04. Structs\obj\Debug\_04.Structs.pdb
