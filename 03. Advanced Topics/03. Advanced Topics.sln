@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Methods Revisited", "01. Methods Revisited\01. Methods Revisited.csproj", "{6D1C06E0-5F0C-4004-B421-425EFD6E13CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Reading and Writing Files", "02. Reading and Writing Files\02. Reading and Writing Files.csproj", "{12FB1E6E-B808-4284-82DB-C35969F020A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Error Handling and Exceptions", "03. Error Handling and Exceptions\03. Error Handling and Exceptions.csproj", "{4EC97BF2-C9ED-4896-9CE6-97EA30CC03CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Delegates", "04. Delegates\04. Delegates.csproj", "{CC0DE92F-48E5-41D7-9E6E-EB17542ABD9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Delegate Chaining", "05. Delegate Chaining\05. Delegate Chaining.csproj", "{80CA3B2E-2A9D-4244-A2D7-1B1EDC5B2EC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Events", "06. Events\06. Events.csproj", "{45A6ADA5-B714-4CFC-A4CD-71B6EAEF0603}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Common Delegate Types Used with Events", "07. Common Delegate Types Used with Events\07. Common Delegate Types Used with Events.csproj", "{AA6190CF-C744-456A-8823-D5CB8E4C54B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D1C06E0-5F0C-4004-B421-425EFD6E13CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D1C06E0-5F0C-4004-B421-425EFD6E13CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D1C06E0-5F0C-4004-B421-425EFD6E13CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D1C06E0-5F0C-4004-B421-425EFD6E13CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12FB1E6E-B808-4284-82DB-C35969F020A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12FB1E6E-B808-4284-82DB-C35969F020A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12FB1E6E-B808-4284-82DB-C35969F020A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12FB1E6E-B808-4284-82DB-C35969F020A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EC97BF2-C9ED-4896-9CE6-97EA30CC03CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EC97BF2-C9ED-4896-9CE6-97EA30CC03CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EC97BF2-C9ED-4896-9CE6-97EA30CC03CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EC97BF2-C9ED-4896-9CE6-97EA30CC03CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC0DE92F-48E5-41D7-9E6E-EB17542ABD9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC0DE92F-48E5-41D7-9E6E-EB17542ABD9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC0DE92F-48E5-41D7-9E6E-EB17542ABD9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC0DE92F-48E5-41D7-9E6E-EB17542ABD9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80CA3B2E-2A9D-4244-A2D7-1B1EDC5B2EC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80CA3B2E-2A9D-4244-A2D7-1B1EDC5B2EC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80CA3B2E-2A9D-4244-A2D7-1B1EDC5B2EC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80CA3B2E-2A9D-4244-A2D7-1B1EDC5B2EC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45A6ADA5-B714-4CFC-A4CD-71B6EAEF0603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A6ADA5-B714-4CFC-A4CD-71B6EAEF0603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A6ADA5-B714-4CFC-A4CD-71B6EAEF0603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A6ADA5-B714-4CFC-A4CD-71B6EAEF0603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA6190CF-C744-456A-8823-D5CB8E4C54B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA6190CF-C744-456A-8823-D5CB8E4C54B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA6190CF-C744-456A-8823-D5CB8E4C54B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA6190CF-C744-456A-8823-D5CB8E4C54B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

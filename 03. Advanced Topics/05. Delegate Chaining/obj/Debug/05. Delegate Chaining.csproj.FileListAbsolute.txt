@@ -1,0 +1,5 @@
+C:\Users\martin\Desktop\03. Advanced Topics\05. Delegate Chaining\bin\Debug\_05.Delegate_Chaining.exe.config
+C:\Users\martin\Desktop\03. Advanced Topics\05. Delegate Chaining\bin\Debug\_05.Delegate_Chaining.exe
+C:\Users\martin\Desktop\03. Advanced Topics\05. Delegate Chaining\bin\Debug\_05.Delegate_Chaining.pdb
+C:\Users\martin\Desktop\03. Advanced Topics\05. Delegate Chaining\obj\Debug\_05.Delegate_Chaining.exe
+C:\Users\martin\Desktop\03. Advanced Topics\05. Delegate Chaining\obj\Debug\_05.Delegate_Chaining.pdb

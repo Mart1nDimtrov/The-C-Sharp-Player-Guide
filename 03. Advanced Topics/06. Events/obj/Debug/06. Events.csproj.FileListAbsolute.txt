@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\06. Events\bin\Debug\_06.Events.exe.config
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\06. Events\bin\Debug\_06.Events.exe
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\06. Events\bin\Debug\_06.Events.pdb
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\06. Events\obj\Debug\06. Events.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\06. Events\obj\Debug\_06.Events.exe
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\06. Events\obj\Debug\_06.Events.pdb

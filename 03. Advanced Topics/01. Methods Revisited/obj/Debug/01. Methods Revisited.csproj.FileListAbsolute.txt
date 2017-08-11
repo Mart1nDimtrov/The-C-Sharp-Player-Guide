@@ -1,0 +1,8 @@
+C:\Users\martin\Desktop\03. Advanced Topics\01. Methods Revisited\bin\Debug\_01.Methods_Revisited.exe.config
+C:\Users\martin\Desktop\03. Advanced Topics\01. Methods Revisited\bin\Debug\_01.Methods_Revisited.exe
+C:\Users\martin\Desktop\03. Advanced Topics\01. Methods Revisited\bin\Debug\_01.Methods_Revisited.pdb
+C:\Users\martin\Desktop\03. Advanced Topics\01. Methods Revisited\obj\Debug\_01.Methods_Revisited.exe
+C:\Users\martin\Desktop\03. Advanced Topics\01. Methods Revisited\obj\Debug\_01.Methods_Revisited.pdb
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\01. Methods Revisited\bin\Debug\_01.Methods_Revisited.exe.config
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\01. Methods Revisited\obj\Debug\_01.Methods_Revisited.exe
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\01. Methods Revisited\obj\Debug\_01.Methods_Revisited.pdb
