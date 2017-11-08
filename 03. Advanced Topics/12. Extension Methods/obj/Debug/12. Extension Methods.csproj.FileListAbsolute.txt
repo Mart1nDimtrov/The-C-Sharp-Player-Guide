@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\12. Extension Methods\bin\Debug\_12.Extension_Methods.exe.config
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\12. Extension Methods\obj\Debug\12. Extension Methods.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\12. Extension Methods\bin\Debug\_12.Extension_Methods.exe
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\12. Extension Methods\bin\Debug\_12.Extension_Methods.pdb
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\12. Extension Methods\obj\Debug\_12.Extension_Methods.exe
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\12. Extension Methods\obj\Debug\_12.Extension_Methods.pdb

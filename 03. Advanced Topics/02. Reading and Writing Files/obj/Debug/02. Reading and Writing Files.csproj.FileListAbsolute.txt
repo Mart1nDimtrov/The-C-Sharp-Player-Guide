@@ -4,3 +4,6 @@ C:\Users\martin\Desktop\03. Advanced Topics\02. Reading and Writing Files\bin\De
 C:\Users\martin\Desktop\03. Advanced Topics\02. Reading and Writing Files\obj\Debug\02. Reading and Writing Files.csprojResolveAssemblyReference.cache
 C:\Users\martin\Desktop\03. Advanced Topics\02. Reading and Writing Files\obj\Debug\_02.Reading_and_Writing_Files.exe
 C:\Users\martin\Desktop\03. Advanced Topics\02. Reading and Writing Files\obj\Debug\_02.Reading_and_Writing_Files.pdb
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\02. Reading and Writing Files\bin\Debug\_02.Reading_and_Writing_Files.exe.config
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\02. Reading and Writing Files\obj\Debug\_02.Reading_and_Writing_Files.exe
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\02. Reading and Writing Files\obj\Debug\_02.Reading_and_Writing_Files.pdb

@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Indexers", "10. Indexer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Creating a Dictionary", "11. Creating a Dictionary\11. Creating a Dictionary.csproj", "{7A6E895B-5E09-477B-8C1B-48738705E220}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Extension Methods", "12. Extension Methods\12. Extension Methods.csproj", "{04780A7A-51ED-4C16-A81E-BE987646022D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{7A6E895B-5E09-477B-8C1B-48738705E220}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A6E895B-5E09-477B-8C1B-48738705E220}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A6E895B-5E09-477B-8C1B-48738705E220}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04780A7A-51ED-4C16-A81E-BE987646022D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04780A7A-51ED-4C16-A81E-BE987646022D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04780A7A-51ED-4C16-A81E-BE987646022D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04780A7A-51ED-4C16-A81E-BE987646022D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
