@@ -1,0 +1,1 @@
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\10. Indexers\bin\Debug\_10.Indexers.exe.config

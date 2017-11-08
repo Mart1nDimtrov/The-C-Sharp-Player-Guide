@@ -4,3 +4,6 @@ C:\Users\martin\Desktop\03. Advanced Topics\04. Delegates\bin\Debug\_04.Delegate
 C:\Users\martin\Desktop\03. Advanced Topics\04. Delegates\obj\Debug\04. Delegates.csprojResolveAssemblyReference.cache
 C:\Users\martin\Desktop\03. Advanced Topics\04. Delegates\obj\Debug\_04.Delegates.exe
 C:\Users\martin\Desktop\03. Advanced Topics\04. Delegates\obj\Debug\_04.Delegates.pdb
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\04. Delegates\bin\Debug\_04.Delegates.exe.config
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\04. Delegates\obj\Debug\_04.Delegates.exe
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\04. Delegates\obj\Debug\_04.Delegates.pdb

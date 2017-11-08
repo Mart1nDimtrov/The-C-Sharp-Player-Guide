@@ -3,3 +3,9 @@ C:\Users\martin\Desktop\03. Advanced Topics\05. Delegate Chaining\bin\Debug\_05.
 C:\Users\martin\Desktop\03. Advanced Topics\05. Delegate Chaining\bin\Debug\_05.Delegate_Chaining.pdb
 C:\Users\martin\Desktop\03. Advanced Topics\05. Delegate Chaining\obj\Debug\_05.Delegate_Chaining.exe
 C:\Users\martin\Desktop\03. Advanced Topics\05. Delegate Chaining\obj\Debug\_05.Delegate_Chaining.pdb
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\05. Delegate Chaining\bin\Debug\_05.Delegate_Chaining.exe.config
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\05. Delegate Chaining\bin\Debug\_05.Delegate_Chaining.exe
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\05. Delegate Chaining\bin\Debug\_05.Delegate_Chaining.pdb
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\05. Delegate Chaining\obj\Debug\05. Delegate Chaining.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\05. Delegate Chaining\obj\Debug\_05.Delegate_Chaining.exe
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\05. Delegate Chaining\obj\Debug\_05.Delegate_Chaining.pdb

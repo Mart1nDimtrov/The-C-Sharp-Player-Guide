@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\09. 3D Vectors\bin\Debug\09. 3D Vectors.exe.config
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\09. 3D Vectors\bin\Debug\09. 3D Vectors.exe
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\09. 3D Vectors\bin\Debug\09. 3D Vectors.pdb
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\09. 3D Vectors\obj\Debug\09. 3D Vectors.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\09. 3D Vectors\obj\Debug\09. 3D Vectors.exe
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\09. 3D Vectors\obj\Debug\09. 3D Vectors.pdb

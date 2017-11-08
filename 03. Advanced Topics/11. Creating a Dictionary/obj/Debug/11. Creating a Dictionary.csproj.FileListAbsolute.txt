@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\11. Creating a Dictionary\bin\Debug\_11.Creating_a_Dictionary.exe.config
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\11. Creating a Dictionary\bin\Debug\_11.Creating_a_Dictionary.exe
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\11. Creating a Dictionary\bin\Debug\_11.Creating_a_Dictionary.pdb
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\11. Creating a Dictionary\obj\Debug\11. Creating a Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\11. Creating a Dictionary\obj\Debug\_11.Creating_a_Dictionary.exe
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\11. Creating a Dictionary\obj\Debug\_11.Creating_a_Dictionary.pdb

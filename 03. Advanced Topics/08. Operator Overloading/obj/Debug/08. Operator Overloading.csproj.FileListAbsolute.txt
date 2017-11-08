@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\08. Operator Overloading\bin\Debug\_08.Operator_Overloading.exe.config
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\08. Operator Overloading\bin\Debug\_08.Operator_Overloading.exe
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\08. Operator Overloading\bin\Debug\_08.Operator_Overloading.pdb
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\08. Operator Overloading\obj\Debug\08. Operator Overloading.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\08. Operator Overloading\obj\Debug\_08.Operator_Overloading.exe
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\08. Operator Overloading\obj\Debug\_08.Operator_Overloading.pdb

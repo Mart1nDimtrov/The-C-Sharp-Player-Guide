@@ -4,3 +4,9 @@ C:\Users\martin\Desktop\03. Advanced Topics\03. Error Handling and Exceptions\bi
 C:\Users\martin\Desktop\03. Advanced Topics\03. Error Handling and Exceptions\obj\Debug\03. Error Handling and Exceptions.csprojResolveAssemblyReference.cache
 C:\Users\martin\Desktop\03. Advanced Topics\03. Error Handling and Exceptions\obj\Debug\_03.Error_Handling_and_Exceptions.exe
 C:\Users\martin\Desktop\03. Advanced Topics\03. Error Handling and Exceptions\obj\Debug\_03.Error_Handling_and_Exceptions.pdb
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\03. Error Handling and Exceptions\bin\Debug\_03.Error_Handling_and_Exceptions.exe.config
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\03. Error Handling and Exceptions\bin\Debug\_03.Error_Handling_and_Exceptions.exe
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\03. Error Handling and Exceptions\bin\Debug\_03.Error_Handling_and_Exceptions.pdb
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\03. Error Handling and Exceptions\obj\Debug\03. Error Handling and Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\03. Error Handling and Exceptions\obj\Debug\_03.Error_Handling_and_Exceptions.exe
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\03. Error Handling and Exceptions\obj\Debug\_03.Error_Handling_and_Exceptions.pdb
