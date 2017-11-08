@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\13. Count Text\bin\Debug\_13.Count_Text.exe.config
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\13. Count Text\bin\Debug\_13.Count_Text.exe
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\13. Count Text\bin\Debug\_13.Count_Text.pdb
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\13. Count Text\obj\Debug\13. Count Text.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\13. Count Text\obj\Debug\_13.Count_Text.exe
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\13. Count Text\obj\Debug\_13.Count_Text.pdb
