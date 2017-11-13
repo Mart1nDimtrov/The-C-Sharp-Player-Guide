@@ -1,0 +1,3 @@
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\16. Query Expression\bin\Debug\_16.Query_Expression.exe.config
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\16. Query Expression\obj\Debug\_16.Query_Expression.exe
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\16. Query Expression\obj\Debug\_16.Query_Expression.pdb

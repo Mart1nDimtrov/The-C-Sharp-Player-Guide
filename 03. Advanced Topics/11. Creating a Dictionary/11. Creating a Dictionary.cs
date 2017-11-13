@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-/*
+﻿/*
 Creating a Dictionary.  Create a class that is a dictionary, storing words (as a string) and their 
 definition (also as a string). Use an indexer to allow users of the dictionary to add, modify, and 
 retrieve definitions for words.
@@ -15,6 +12,9 @@ Note that the .NET Framework already defines a Dictionary class, which uses gene
 the real world could be used to do what we’ re trying to do here, plus a whole lot more. But we’ re 
 trying to get the hang of indexers here, so don’t use that class while doing this challenge.
 */
+using System;
+using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 

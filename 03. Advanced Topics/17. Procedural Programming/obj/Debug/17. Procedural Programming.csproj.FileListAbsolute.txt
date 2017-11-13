@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\17. Procedural Programming\bin\Debug\_17.Procedural_Programming.exe.config
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\17. Procedural Programming\bin\Debug\_17.Procedural_Programming.exe
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\17. Procedural Programming\bin\Debug\_17.Procedural_Programming.pdb
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\17. Procedural Programming\obj\Debug\17. Procedural Programming.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\17. Procedural Programming\obj\Debug\_17.Procedural_Programming.exe
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\17. Procedural Programming\obj\Debug\_17.Procedural_Programming.pdb

@@ -1,0 +1,6 @@
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\15. Lambda Expressions\bin\Debug\_15.Lambda_Expressions.exe.config
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\15. Lambda Expressions\bin\Debug\_15.Lambda_Expressions.exe
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\15. Lambda Expressions\bin\Debug\_15.Lambda_Expressions.pdb
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\15. Lambda Expressions\obj\Debug\15. Lambda Expressions.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\15. Lambda Expressions\obj\Debug\_15.Lambda_Expressions.exe
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\15. Lambda Expressions\obj\Debug\_15.Lambda_Expressions.pdb
