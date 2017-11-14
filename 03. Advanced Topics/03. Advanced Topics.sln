@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16. Query Expressions", "16
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17. Procedural Programming", "17. Procedural Programming\17. Procedural Programming.csproj", "{DB636CCB-65BA-4F20-9D59-2DA891AF2FAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18. Threads", "18. Threads\18. Threads.csproj", "{083B4466-9EE3-4DF6-8D01-72BDF0C812E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{DB636CCB-65BA-4F20-9D59-2DA891AF2FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB636CCB-65BA-4F20-9D59-2DA891AF2FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB636CCB-65BA-4F20-9D59-2DA891AF2FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{083B4466-9EE3-4DF6-8D01-72BDF0C812E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{083B4466-9EE3-4DF6-8D01-72BDF0C812E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{083B4466-9EE3-4DF6-8D01-72BDF0C812E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{083B4466-9EE3-4DF6-8D01-72BDF0C812E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

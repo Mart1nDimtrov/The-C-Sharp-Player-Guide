@@ -1,0 +1,1 @@
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\18. Threads\bin\Debug\_18.Threads.exe.config
