@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Message from Julius Caesar", "04. Try It Out!\01. Message from Julius Caesar.csproj", "{1D509126-5F81-4191-9859-B07EC3DFD562}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Reverse It!", "02. Reverse It!\02. Reverse It!.csproj", "{E170E249-8647-4CEB-90BA-E06C6C4FD055}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D509126-5F81-4191-9859-B07EC3DFD562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D509126-5F81-4191-9859-B07EC3DFD562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D509126-5F81-4191-9859-B07EC3DFD562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D509126-5F81-4191-9859-B07EC3DFD562}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E170E249-8647-4CEB-90BA-E06C6C4FD055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E170E249-8647-4CEB-90BA-E06C6C4FD055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E170E249-8647-4CEB-90BA-E06C6C4FD055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E170E249-8647-4CEB-90BA-E06C6C4FD055}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

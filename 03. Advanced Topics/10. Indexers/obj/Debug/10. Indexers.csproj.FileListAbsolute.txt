@@ -1,1 +1,6 @@
 C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\10. Indexers\bin\Debug\_10.Indexers.exe.config
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\10. Indexers\bin\Debug\_10.Indexers.exe
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\10. Indexers\bin\Debug\_10.Indexers.pdb
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\10. Indexers\obj\Debug\10. Indexers.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\10. Indexers\obj\Debug\_10.Indexers.exe
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\10. Indexers\obj\Debug\_10.Indexers.pdb

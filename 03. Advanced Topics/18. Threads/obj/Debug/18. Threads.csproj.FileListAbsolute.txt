@@ -1,1 +1,5 @@
 C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\18. Threads\bin\Debug\_18.Threads.exe.config
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\18. Threads\bin\Debug\_18.Threads.exe
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\18. Threads\bin\Debug\_18.Threads.pdb
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\18. Threads\obj\Debug\_18.Threads.exe
+C:\Users\martin\Desktop\The C# Player's Guide\03. Advanced Topics\18. Threads\obj\Debug\_18.Threads.pdb
