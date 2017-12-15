@@ -46,33 +46,86 @@ namespace _04.Try_It_Out_
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter message to be encrypted:");
-            string encoded = Console.ReadLine();
+            Console.WriteLine("Enter path to file:");
+            string path = Console.ReadLine();
+            string text = System.IO.File.ReadAllText($@"{path}");
             Console.WriteLine("Enter key:");
             int key = int.Parse(Console.ReadLine());
+            Console.WriteLine("Do you want to encode or decode the message?");
+            string answer = Console.ReadLine();
+            while (true)
+            {
+                if (answer.Equals("encode"))
+                {
+                    EncodeMessage(text, key);
+                    break;
+                }
+                else if (answer.Equals("decode"))
+                {
+                    DecodeMessage(text, key);
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("Please choose a valid option.");
+                    answer = Console.ReadLine();
+                }
+            }
+           
+
+        }
+
+        public static void DecodeMessage(string message, int key)
+        {
             StringBuilder decoded = new StringBuilder();
 
-            for (int i = 0; i < encoded.Length; i++)
+            for (int i = 0; i < message.Length; i++)
             {
-                if (char.IsLetter(encoded[i]))
+                if (char.IsLetter(message[i]))
                 {
-                    if (Convert.ToInt32(encoded[i]) + key > 90)
+                    if (Convert.ToInt32(message[i]) - key < 65)
                     {
-                        decoded.Append(Convert.ToChar(Convert.ToInt32(encoded[i]) + key - 90 + 64));
-                    } else
+                        decoded.Append(Convert.ToChar(Convert.ToInt32(message[i]) - key + 90 - 64));
+                    }
+                    else
                     {
-                        decoded.Append(Convert.ToChar(Convert.ToInt32(encoded[i]) + key));
+                        decoded.Append(Convert.ToChar(Convert.ToInt32(message[i]) - key));
                     }
                 }
                 else
                 {
-                    decoded.Append(encoded[i]);
+                    decoded.Append(message[i]);
                 }
             }
 
-            Console.WriteLine("Plain text: " + encoded);
-            Console.WriteLine("Encrypted: " + decoded.ToString());
+            Console.WriteLine("Plain text: " + message);
+            Console.WriteLine("Decrypted: " + decoded.ToString());
+        }
+        public static void EncodeMessage(string message, int key)
+        {
+            StringBuilder encoded = new StringBuilder();
 
+            for (int i = 0; i < message.Length; i++)
+            {
+                if (char.IsLetter(message[i]))
+                {
+                    if (Convert.ToInt32(message[i]) + key > 90)
+                    {
+                        encoded.Append(Convert.ToChar(Convert.ToInt32(message[i]) + key - 90 + 64));
+                    }
+                    else
+                    {
+                        encoded.Append(Convert.ToChar(Convert.ToInt32(message[i]) + key));
+                    }
+                }
+                else
+                {
+                    encoded.Append(message[i]);
+                }
+            }
+
+            Console.WriteLine("Plain text: " + message);
+            Console.WriteLine("Encrypted: " + encoded.ToString());
         }
     }
 }

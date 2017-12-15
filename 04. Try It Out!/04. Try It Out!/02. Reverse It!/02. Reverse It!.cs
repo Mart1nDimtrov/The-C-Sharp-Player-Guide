@@ -30,6 +30,31 @@ namespace _02.Reverse_It_
     {
         static void Main(string[] args)
         {
+            int[] arrNum = new int[] { 5, 3, 8, 6, 4, 1, 2, 9, 7 };
+            string sortedArr = String.Join("", arrNum.OrderBy(x => x));
+            Console.WriteLine("The array you have is: {0}", String.Join(", ", arrNum));
+            Console.WriteLine("Enter a number between 1 and 9 or 0 to quit:");
+            int moves = 0;
+            int index = int.Parse(Console.ReadLine());
+            while (true)
+            {
+                moves++;
+                if (index == 0)
+                {
+                    break;
+                }
+                arrNum = arrNum.Take(index).Reverse().Concat(arrNum.Skip(index)).ToArray();
+                Console.WriteLine("The array you have is: {0}", String.Join(", ", arrNum));
+                if (sortedArr == String.Join("", arrNum))
+                {
+                    Console.WriteLine("Congratulations! You've won with {0} moves.", moves);
+                    break;
+                }
+                Console.WriteLine("Enter a number between 1 and 9 or 0 to quit:");
+                index = int.Parse(Console.ReadLine()); 
+            }
+
+
         }
     }
 }
