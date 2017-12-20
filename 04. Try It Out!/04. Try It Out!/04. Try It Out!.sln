@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Reverse It!", "02. Reve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Pig Dice", "03. Pig Dice\03. Pig Dice.csproj", "{7122CE46-3719-4EE6-B311-6821BFE6D413}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Connect Four", "04. Connect Four\04. Connect Four.csproj", "{57055B03-1438-4176-9EA6-FB8889809FBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{7122CE46-3719-4EE6-B311-6821BFE6D413}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7122CE46-3719-4EE6-B311-6821BFE6D413}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7122CE46-3719-4EE6-B311-6821BFE6D413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57055B03-1438-4176-9EA6-FB8889809FBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57055B03-1438-4176-9EA6-FB8889809FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57055B03-1438-4176-9EA6-FB8889809FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57055B03-1438-4176-9EA6-FB8889809FBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

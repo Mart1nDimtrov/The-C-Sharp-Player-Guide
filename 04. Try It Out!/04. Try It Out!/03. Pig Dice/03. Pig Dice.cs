@@ -32,6 +32,82 @@ namespace _03.Pig_Dice
     {
         static void Main(string[] args)
         {
+            int firstPlayer = 0;
+            int secondPlayer = 0;
+            bool turn = true;
+            Random rnd = new Random();
+
+            while (true)
+            {
+                if (turn)
+                {
+                    Console.WriteLine("Player One:");
+                    Console.WriteLine("Throw or hold?");
+                    string choice = Console.ReadLine();
+                    if (choice == "throw")
+                    {
+                        int firstThrow = rnd.Next(1, 7);
+                        int secondThrow = rnd.Next(1, 7);
+                        if (firstThrow == 1 && secondThrow == 1)
+                        {
+                            Console.WriteLine("First dice: {0} Second dice: {1}", firstThrow, secondThrow);
+                            firstPlayer = 0;
+                        }
+                        else
+                        {
+                            Console.WriteLine("First dice: {0} Second dice: {1}", firstThrow, secondThrow);
+                            firstPlayer += firstThrow + secondThrow;
+                        }
+                        turn = false;
+                    }
+                    else if (choice == "hold")
+                    {
+                        turn = false;
+                    }
+
+                } else
+                {
+                    Console.WriteLine("Player Two:");
+                    Console.WriteLine("Throw or hold?");
+                    string choice = Console.ReadLine();
+                    if (choice == "throw")
+                    {
+
+                        int firstThrow = rnd.Next(1, 7);
+                        int secondThrow = rnd.Next(1, 7);
+                        if (firstThrow == 1 && secondThrow == 1)
+                        {
+                            Console.WriteLine("First dice: {0} Second dice: {1}", firstThrow, secondThrow);
+                            secondPlayer = 0;
+                        } else
+                        {
+                            Console.WriteLine("First dice: {0} Second dice: {1}", firstThrow, secondThrow);
+                            secondPlayer += firstThrow + secondThrow;
+                        }
+                        turn = true;
+                    }
+                    else if (choice == "hold")
+                    {
+                        turn = true;
+                    }
+                }
+
+                Console.WriteLine("Current results:");
+                Console.WriteLine("Player One: {0} Player Two: {1}", firstPlayer, secondPlayer);
+
+                if (firstPlayer >= 100)
+                {
+                    Console.WriteLine("Player One won!");
+                    break;
+                }
+                else if (secondPlayer >= 100)
+                {
+                    Console.WriteLine("Player Two won!");
+                    break;
+                }
+            }
+
+
         }
     }
 }
