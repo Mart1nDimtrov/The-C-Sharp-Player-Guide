@@ -51,7 +51,9 @@ namespace _04.Connect_Four
                     Console.WriteLine("Player One choose your column:");
                     int moveCol = int.Parse(Console.ReadLine());
                     int row = MakeMove(board, 6, moveCol - 1, playerOneSign, playerTwoSign);
-                    if (CheckPlayerVertical(board, moveCol - 1, playerOneSign) || CheckPlayerHorizontal(board, row, playerOneSign))
+                    if (CheckPlayerVertical(board, moveCol - 1, playerOneSign) || CheckPlayerHorizontal(board, row, playerOneSign) || checkPlayerDiagonalOne(board, row, moveCol - 1, playerOneSign)
+                        || checkPlayerDiagonalTwo(board, row, moveCol - 1, playerOneSign) || checkPlayerDiagonalThree(board, row, moveCol - 1, playerOneSign) 
+                        || checkPlayerDiagonalFour(board, row, moveCol - 1, playerOneSign))
                     {
                         WriteMatrix(board, 6, 7);
                         Console.WriteLine("Player One won!");
@@ -165,7 +167,129 @@ namespace _04.Connect_Four
             return false;
         }
 
+        public static bool checkPlayerDiagonalOne(char[,] board, int row, int col, char playerSign)
+        {
+            int signCount = 0;
+            for (int r = row; r <= 4; r++)
+            {
+                if (col > 0)
+                {
+                    if (board[r, col] == playerSign && board[r + 1, col - 1] == playerSign)
+                    {
+                        signCount++;
+                        if (signCount == 3)
+                        {
+                            return true;
+                        }
+                    }
+                    else
+                    {
+                        signCount = 0;
+                    }
+                }
+                else
+                {
+                    break;
+                }
+                
+                col--;
+            }
 
+            return false;
+        }
+
+        public static bool checkPlayerDiagonalTwo(char[,] board, int row, int col, char playerSign)
+        {
+            int signCount = 0;
+            for (int r = row; r >= 1; r--)
+            {
+                if (col > 0 && r > 0)
+                {
+                    if (board[r, col] == playerSign && board[r - 1, col - 1] == playerSign)
+                    {
+                        signCount++;
+                        if (signCount == 3)
+                        {
+                            return true;
+                        }
+                    }
+                    else
+                    {
+                        signCount = 0;
+                    }
+                }
+                else
+                {
+                    break;
+                }
+
+                col--;
+            }
+
+            return false;
+        }
+
+        public static bool checkPlayerDiagonalThree(char[,] board, int row, int col, char playerSign)
+        {
+            int signCount = 0;
+            for (int r = row; r >= 4; r++)
+            {
+                if (r <= 4 && col <= 5)
+                {
+                    if (board[r, col] == playerSign && board[r + 1, col + 1] == playerSign)
+                    {
+                        signCount++;
+                        if (signCount == 3)
+                        {
+                            return true;
+                        }
+                    }
+                    else
+                    {
+                        signCount = 0;
+                    }
+                }
+                else
+                {
+                    break;
+                }
+
+                col++;
+            }
+
+            return false;
+        }
+
+        public static bool checkPlayerDiagonalFour(char[,] board, int row, int col, char playerSign)
+        {
+            int signCount = 0;
+            for (int r = row; r >= 1; r--)
+            {
+                if (r >= 1 && col <= 5)
+                {
+                    if (board[r, col] == playerSign && board[r - 1, col + 1] == playerSign)
+                    {
+                        signCount++;
+                        if (signCount == 3)
+                        {
+                            return true;
+                        }
+                    }
+                    else
+                    {
+                        signCount = 0;
+                    }
+                }
+                else
+                {
+                    break;
+                }
+
+                col++;
+            }
+
+            return false;
+        }
 
     }
 }
