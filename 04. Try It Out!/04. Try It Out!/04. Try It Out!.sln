@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Pig Dice", "03. Pig Dic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Connect Four", "04. Connect Four\04. Connect Four.csproj", "{57055B03-1438-4176-9EA6-FB8889809FBA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Conway’s Game of Life", "05. Conway’s Game of Life\05. Conway’s Game of Life.csproj", "{1B79F5C3-D4B3-4865-A9DE-57EE06970058}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{57055B03-1438-4176-9EA6-FB8889809FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57055B03-1438-4176-9EA6-FB8889809FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57055B03-1438-4176-9EA6-FB8889809FBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B79F5C3-D4B3-4865-A9DE-57EE06970058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B79F5C3-D4B3-4865-A9DE-57EE06970058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B79F5C3-D4B3-4865-A9DE-57EE06970058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B79F5C3-D4B3-4865-A9DE-57EE06970058}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
