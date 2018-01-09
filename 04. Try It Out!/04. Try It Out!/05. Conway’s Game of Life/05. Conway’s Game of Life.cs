@@ -54,6 +54,43 @@ namespace _05.Conway_s_Game_of_Life
     {
         static void Main(string[] args)
         {
+            string path = Console.ReadLine();
+            int[] positions = System.IO.File.ReadAllText(@path)
+                           .Split(',')
+                           .Select(int.Parse)
+                           .ToArray();
+
+            char[,] plane = new char[40, 40];
+
+            for (int row = 0; row < 40; row++)
+            {
+                for (int col = 0; col < 40; col++)
+                {
+                    plane[row, col] = '.';
+                }
+            }
+
+            for (int i = 0; i < positions.Length; i+=2)
+            {
+                plane[positions[i] - 1, positions[i + 1] - 1] = 'X';
+            }
+
+            WritePlane(plane);
+
+            
+        }
+
+        public static void WritePlane(char [,] plane)
+        {
+            for (int row = 0; row < 40; row++)
+            {
+                for (int col = 0; col < 40; col++)
+                {
+                    Console.Write(plane[row, col]); 
+                }
+                Console.WriteLine();
+            }
+       
         }
     }
 }
