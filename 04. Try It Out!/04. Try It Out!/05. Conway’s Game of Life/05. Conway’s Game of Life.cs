@@ -82,20 +82,18 @@ namespace _05.Conway_s_Game_of_Life
                 {
                     for (int col = 0; col < 40; col++)
                     {
-                        CheckPosition(plane, row, col);
+                        CheckPosition(ref plane, row, col);
                     }
                 }
-
-                Console.Clear();
-                Thread.Sleep(2000);
+                             
                 WritePlane(plane);
-
+                Thread.Sleep(2000);
+                Console.Clear();
             }
             
-        
         }
 
-        public static void CheckPosition(char[,] plane, int row, int col)
+        public static void CheckPosition(ref char[,] plane, int row, int col)
         {
             int neighboursCount = 0;
             if (row - 1 >= 0 && col - 1 >= 0 && plane[row - 1, col - 1] == 'X')
