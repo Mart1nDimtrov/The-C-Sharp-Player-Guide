@@ -46,6 +46,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace _05.Conway_s_Game_of_Life
@@ -75,9 +76,70 @@ namespace _05.Conway_s_Game_of_Life
                 plane[positions[i] - 1, positions[i + 1] - 1] = 'X';
             }
 
-            WritePlane(plane);
+            while (true)
+            {
+                for (int row = 0; row < 40; row++)
+                {
+                    for (int col = 0; col < 40; col++)
+                    {
+                        CheckPosition(plane, row, col);
+                    }
+                }
 
+                Console.Clear();
+                Thread.Sleep(2000);
+                WritePlane(plane);
+
+            }
             
+        
+        }
+
+        public static void CheckPosition(char[,] plane, int row, int col)
+        {
+            int neighboursCount = 0;
+            if (row - 1 >= 0 && col - 1 >= 0 && plane[row - 1, col - 1] == 'X')
+            {
+                neighboursCount++;
+            }
+            if (row - 1 >= 0 && plane[row - 1, col] == 'X')
+            {
+                neighboursCount++;
+            }
+            if (col - 1 >= 0 && plane[row, col - 1] == 'X')
+            {
+                neighboursCount++;
+            }
+            if (row + 1 <= 39 && plane[row + 1, col] == 'X')
+            {
+                neighboursCount++;
+            }
+            if (row + 1 <= 39 && col + 1 <= 39 && plane[row + 1, col + 1] == 'X')
+            {
+                neighboursCount++;
+            }
+            if (col + 1 <= 39 && plane[row, col + 1] == 'X')
+            {
+                neighboursCount++;
+            }
+            if (row - 1 >= 0 && col + 1 <=39 && plane[row - 1, col + 1] == 'X')
+            {
+                neighboursCount++;
+            }
+            if (row + 1 <= 39 && col - 1 >= 0 && plane[row + 1, col - 1] == 'X')
+            {
+                neighboursCount++;
+            }
+
+            if (neighboursCount == 0 || neighboursCount == 1 || neighboursCount > 3)
+            {
+                plane[row, col] = '.';
+            }
+            else if (neighboursCount == 3)
+            {
+                plane[row, col] = 'X';
+            }
+
         }
 
         public static void WritePlane(char [,] plane)
